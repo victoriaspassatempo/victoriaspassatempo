@@ -12,7 +12,7 @@
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=victoriaspassatempo&rank_icon=github&theme=dracula" />
   </a>
   <a href="https://github.com/victoriaspassatempo/convoychat" style="text-decoration: none; color: #58a6ff;">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriaspassatempo&langs_count=8&card_width=520&theme=dracula" />
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriaspassatempo&langs_count=8&card_width=320&theme=dracula" />
   </a>
 </div>
 
